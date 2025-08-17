@@ -11,8 +11,11 @@ import praktikum.tests.stellarburgers.client.UserClient;
 import praktikum.tests.stellarburgers.model.User;
 import praktikum.tests.stellarburgers.util.Data;
 import praktikum.tests.stellarburgers.util.Tokens;
+import io.qameta.allure.junit4.AllureJunit4;
+import org.junit.runner.RunWith;
 
 import static org.hamcrest.Matchers.*;
+
 
 public class AuthLoginTests extends BaseTest {
     private final UserClient userClient = new UserClient();
