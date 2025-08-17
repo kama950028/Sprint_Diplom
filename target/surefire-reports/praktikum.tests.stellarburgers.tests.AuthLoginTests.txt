@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: praktikum.tests.stellarburgers.tests.AuthLoginTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.758 s -- in praktikum.tests.stellarburgers.tests.AuthLoginTests

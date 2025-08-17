@@ -1,3 +1,13 @@
-C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\BurgerCoreTest.java
-C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\BurgerMoveEdgeTest.java
-C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\BurgerPriceParamTest.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\burgertests\BurgerCoreTest.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\burgertests\BurgerMoveEdgeTest.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\burgertests\BurgerPriceParamTest.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\BaseTest.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\client\OrderClient.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\client\UserClient.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\model\User.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\tests\AuthLoginTests.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\tests\AuthRegisterTests.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\tests\OrderCreateTests.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\util\Data.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\util\Ingredients.java
+C:\cygwin64\yandex\QA-java-diplom-1\src\test\java\praktikum\tests\stellarburgers\util\Tokens.java
