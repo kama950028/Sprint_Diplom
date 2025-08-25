@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: praktikum.tests.burgertests.BurgerCoreTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.677 s -- in praktikum.tests.burgertests.BurgerCoreTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.331 s -- in praktikum.tests.burgertests.BurgerCoreTest
